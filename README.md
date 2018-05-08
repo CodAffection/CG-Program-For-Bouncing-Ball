@@ -1,4 +1,4 @@
-# CG-Program-For-Bouncing-Ball
+# CG Program For Bouncing Ball
 Computer Graphics Program For Bouncing Ball in C Programming.
 
 # Demo Video
